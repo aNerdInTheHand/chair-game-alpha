@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chair-game-alpha/static/css/main.cd72475a.chunk.css",
+    "main.js": "/chair-game-alpha/static/js/main.abc433ed.chunk.js",
+    "main.js.map": "/chair-game-alpha/static/js/main.abc433ed.chunk.js.map",
+    "runtime-main.js": "/chair-game-alpha/static/js/runtime-main.8a4689ff.js",
+    "runtime-main.js.map": "/chair-game-alpha/static/js/runtime-main.8a4689ff.js.map",
+    "static/css/2.d45d6843.chunk.css": "/chair-game-alpha/static/css/2.d45d6843.chunk.css",
+    "static/js/2.c5495e36.chunk.js": "/chair-game-alpha/static/js/2.c5495e36.chunk.js",
+    "static/js/2.c5495e36.chunk.js.map": "/chair-game-alpha/static/js/2.c5495e36.chunk.js.map",
+    "index.html": "/chair-game-alpha/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/chair-game-alpha/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.cd72475a.chunk.css.map": "/chair-game-alpha/static/css/main.cd72475a.chunk.css.map",
+    "static/js/2.c5495e36.chunk.js.LICENSE.txt": "/chair-game-alpha/static/js/2.c5495e36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a4689ff.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.c5495e36.chunk.js",
+    "static/css/main.cd72475a.chunk.css",
+    "static/js/main.abc433ed.chunk.js"
+  ]
+}
